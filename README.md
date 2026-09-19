@@ -6,8 +6,9 @@
 **Framework:** TensorFlow / Keras · **Environment:** Google Colab · **Image size:** 128 × 128 RGB
 
 [Open the notebook](project_deep_learninig_Brain_Tumor_MRI.ipynb)
+[Application Link](https://brain-tumor-ai-0.streamlit.app/)
 
-[ApplicationLink]([project_deep_learninig_Brain_Tumor_MRI.ipynb](https://brain-tumor-ai-0.streamlit.app/))
+
 
 ## Overview
 
